@@ -1,6 +1,6 @@
 # MyFirstMod · 人物附加与生活质量提升
 
-面向 **Degrees of Lewdity 0.5.10.12 Lyra 汉化版** 的 SugarCube/Twee 模组，基于 [TweeReplacer](https://github.com/.../TweeReplacer) 注入实现，无需改动本体 HTML。
+面向 **Degrees of Lewdity 0.5.10.12 ~ Lyra 0.5.11.9 Lyra 汉化版** 的 SugarCube/Twee 模组，基于 [TweeReplacer](https://github.com/.../TweeReplacer) 注入实现，无需改动本体 HTML。
 
 > ⚠️ 本模组包含成人向内容（18+），仅供成年玩家在本地单机环境中娱乐使用。
 
